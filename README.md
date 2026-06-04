@@ -9,7 +9,6 @@ Currently interning at 3S, Cairo.
 ##  Currently
 
 -  Final Year Project — XAI / AI Systems (supervisor: Dr. Yasir Hafeez)
--  Software Engineering Intern — 3S, Cairo
 - 📍 Cairo, Egypt
 
 ---
