@@ -3,16 +3,15 @@
 <p align="center">
   Final-year CS with AI student at the University of Nottingham Malaysia.<br>
   I build across mobile, full-stack, and AI — from Flutter apps to intrusion detection systems.<br>
- .
+ 
 </p>
 
 ---
 
 ## 🔭 Currently
 
-- 🎓 Final Year Project — XAI / AI Systems (supervisor: Dr. Yasir Hafeez)
-- 💼 Software Engineering Intern — 3S, Cairo
-- 📍 Cairo, Egypt
+-  Final Year Project — XAI / AI Systems (supervisor: Dr. Yasir Hafeez)
+-  Cairo, Egypt
 
 ---
 
@@ -62,5 +61,5 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ziad-elsebaey](https://www.linkedin.com/in/ziad-elsebaey-a0a5a3396/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-elsebaey-a0a5a3396/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ziadkamelnbis@gmail.com)
