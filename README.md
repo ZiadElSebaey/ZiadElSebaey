@@ -2,16 +2,15 @@
 
 <p align="center">
   Final-year CS with AI student at the University of Nottingham Malaysia.<br>
-  I build across mobile, full-stack, and AI — from Flutter apps to intrusion detection systems.<br>
- 
+  I build across mobile, full-stack, and AI — from Flutter apps to intrusion detection systems.
 </p>
 
 ---
 
 ## 🔭 Currently
 
--  Final Year Project — XAI / AI Systems (supervisor: Dr. Yasir Hafeez)
--  Cairo, Egypt
+- 🎓 Final Year Project — XAI / AI Systems (supervisor: Dr. Yasir Hafeez)
+- 📍 Cairo, Egypt
 
 ---
 
