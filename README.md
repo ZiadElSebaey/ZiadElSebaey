@@ -3,7 +3,7 @@
 <p align="center">
   Final-year CS with AI student at the University of Nottingham Malaysia.<br>
   I build across mobile, full-stack, and AI — from Flutter apps to intrusion detection systems.<br>
-  Currently interning at 3S, Cairo.
+ .
 </p>
 
 ---
@@ -62,5 +62,5 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-elsebaey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ziad-elsebaey](https://www.linkedin.com/in/ziad-elsebaey-a0a5a3396/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ziadkamelnbis@gmail.com)
