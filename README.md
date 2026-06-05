@@ -48,14 +48,14 @@
 
 ---
 
-##  Projects
+## 🚀 Projects
 
 | Project | Stack | Link |
 |---------|-------|------|
 | 🏠 RoomPlus — Roommate Matching App | Dart · Flutter · Firebase · Figma | [→](https://github.com/ZiadElSebaey/roomplus-roommate-matching) |
 | 🛡️ AI Intrusion Detection System | Python · scikit-learn · GA / PSO / SA | [→](https://github.com/ZiadElSebaey/ai-intrusion-detection-system) |
 | 🎮 Tetris Game Engine | Java · JavaFX · JUnit 5 · Maven | [→](https://github.com/ZiadElSebaey/Tetris-Game-engine) |
-
+| 🗃️ CRM System — ABB Robotics | PHP · MySQL · JavaScript | [→](https://github.com/ZiadElSebaey/crm-system-abb-robotics) |
 ---
 
 ## 📬 Contact
