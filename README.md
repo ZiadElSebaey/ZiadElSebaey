@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Stack | Link |
 |---------|-------|------|
